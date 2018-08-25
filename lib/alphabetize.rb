@@ -1,3 +1,3 @@
 def alphabetize(arr)
-  arr.sort_by!{ |m| m.downcase}
+  arr.sort_by!{ |m| m}
 end
